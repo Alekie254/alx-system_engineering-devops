@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-grep -c -irl "bin" /etc/passwd
-=======
-grep -c -irls "bin" /etc/passwd
->>>>>>> c0ee4eade7870be011a96c286436743eadb4dad9
+grep -c -i "bin" /etc/passwd
